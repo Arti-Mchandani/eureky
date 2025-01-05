@@ -1,0 +1,36 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Home",
+            "url": "/home"
+        },
+        {
+            "id": 2,
+            "name": "Why Euryka",
+            "url": "/Why_Euryka"
+        },
+        {
+            "id": 3,
+            "name": "Blog",
+            "url": "/Blog"
+        },
+        {
+            "id": 4,
+            "name": "Careers",
+            "url": "/careers"
+        }
+    ],
+    "button": [
+        {
+            "id": 1,
+            "name": "Help Centre",
+            "url": "/home"
+        },
+        {
+            "id": 2,
+            "name": "Launch APP",
+            "url": "/Why_Euryka"
+        }
+    ]
+}

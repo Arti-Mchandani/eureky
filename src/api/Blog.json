@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Announcing Collaborative Threads – Team Creativity Made Seamless",
+        "imageUrl": "/images/blogOne.png",
+        "date":"November 11, 2024",
+        "category" :"News & Updates",
+        "description":"Put on your collaborative thinking cap! Euryka's biggest Threads upgrade transforms seamless teamwork with AI-powered Collaborative Threads."
+    },
+    {
+        "id": 2,
+        "title": "Euryka’s AI-Powered Creative Tools Get a Major Upgrade!",
+        "imageUrl": "/images/blogTwo.png",
+        "date":"October 9, 2024",
+        "category" :"News & Updates",
+        "description" :"Euryka's AI-powered creative tools now feature improved UX, mobile access, expanded language models, and new video generation capabilities. Dive right in!"
+    },
+    {
+        "id": 3,
+        "title": "Euryka’s AI-Powered Learning Tools: Ace This Back-to-School Season",
+        "imageUrl": "/images/blogThree.png",
+        "date":"September 9, 2024",
+        "category" :"Case Study",
+        "description":"Our AI-powered learning tools assist personalised learning and content creation, transforming the back-to-school experience for students and teachers."
+    }
+ 
+]

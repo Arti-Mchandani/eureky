@@ -1,0 +1,77 @@
+  {
+    "sitemap": [
+      {
+        "id": 0,
+        "name": "SITEMAP",
+        "children": [
+          {
+            "id": 1,
+            "name": "Home",
+            "url": "/home"
+          },
+          {
+            "id": 2,
+            "name": "Why Euryka",
+            "url": "/why-euryka"
+          },
+          {
+            "id": 3,
+            "name": "Blog",
+            "url": "/blog"
+          },
+          {
+            "id": 4,
+            "name": "Careers",
+            "url": "/careers"
+          },
+          {
+            "id": 5,
+            "name": "Privacy Policy",
+            "url": "/privacy-policy"
+          },
+          {
+            "id": 6,
+            "name": "Terms of Service",
+            "url": "/terms-of-service"
+          }
+        ]
+      }
+    ],
+    "supportSection": [
+      {
+        "id": 0,
+        "name": "SUPPORT",
+        "children": [
+          
+          {
+            "id": 1,
+            "name": "Help Centre",
+            "url": "/help-centre"
+          },
+          {
+            "id": 2,
+            "name": "Release Notes",
+            "url": "/release-notes"
+          }
+        ]
+      }
+    ],
+    "socialSection": [
+      {
+        "id": 0,
+        "name": "SOCIAL",
+        "children": [
+          {
+            "id": 1,
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "id": 2,
+            "name": "Instagram",
+            "url": "https://www.instagram.com"
+          }
+        ]
+      }
+    ]
+  }
